@@ -19,10 +19,9 @@
 ### Graphic Design 🖼️:
 ![Inkscape](https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![CorelDraw](https://img.shields.io/badge/CorelDraw-16b437?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20designer-134881?style=for-the-badge&logo=affinitydesigner&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 ![Blnder](https://img.shields.io/badge/Blnder-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![illustrator](https://img.shields.io/badge/adobe%20illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 
 ### IDEs and Tools 🛠:
